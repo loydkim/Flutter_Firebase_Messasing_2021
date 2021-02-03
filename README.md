@@ -1,6 +1,6 @@
 # Firebase Cloud Messaging
 
-<img src="https://github.com/loydkim/Flutter_Firebase_Messasing_2021/blob/main/FirebaseMessaging_short.gif" width="300" height="520">
+<img src="https://github.com/loydkim/Flutter_Firebase_Messasing_2021/blob/main/FirebaseMessaging_short.gif" width="300" height="540">
 
 * index.js file for cloud function: https://github.com/loydkim/Flutter_Firebase_Messasing_2021/blob/main/index.js
 
