@@ -2,6 +2,8 @@
 
 <img src="https://github.com/loydkim/Flutter_Firebase_Messasing_2021/blob/main/FirebaseMessaging_short.gif" width="300" height="520">
 
+* index.js file for cloud function: https://github.com/loydkim/Flutter_Firebase_Messasing_2021/blob/main/index.js
+
 * Develop Environment.
 
 - Flutter SDK Version: 1.25.0-5.0
