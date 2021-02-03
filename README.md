@@ -1,6 +1,15 @@
-# firebasecloudmessaging
+# Firebase Cloud Messaging
 
-A new Flutter application.
+<img src="https://github.com/loydkim/Flutter_Firebase_Messasing_2021/blob/main/FirebaseMessaging_short.gif" width="300" height="520">
+
+* Develop Environment.
+
+- Flutter SDK Version: 1.25.0-5.0
+- Flutter: 52.1.1
+- Dart: 201.9245
+- Xcode Version: 12.2
+- Android Studio: 4.1.1
+- OS Version: MacOS Big Sur 11.1
 
 ## Getting Started
 
